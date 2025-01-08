@@ -1,4 +1,3 @@
-# NycTaxiExploration
 # Problem Statement
 At some point or the other almost each one of us has used an Ola or Uber for taking a ride.
 
